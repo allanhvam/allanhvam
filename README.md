@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Github Stats
+[![Saltyaom's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanhvam&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanhvam&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **allanhvam/allanhvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

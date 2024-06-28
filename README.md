@@ -17,3 +17,4 @@ I am a software developer specializing in TypeScript and deeply interested in Sh
 
 ### [simple-workflows](https://github.com/allanhvam/simple-workflows)
 ### [msw-sp](https://github.com/allanhvam/msw-sp)
+### [sp-workbench](https://github.com/allanhvam/sp-workbench)

@@ -1,21 +1,19 @@
 ### Hi there 👋
 
-### Github Stats
-[![Saltyaom's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanhvam&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+## 👨‍💻 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanhvam&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+I am a software developer specializing in TypeScript and deeply interested in SharePoint, Infrastructure as Code (IaC), Azure, IoT, and Home Automation.
 
-<!--
-**allanhvam/allanhvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technologies & Tools
 
-Here are some ideas to get you started:
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoft-sharepoint)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure)
+![IoT](https://img.shields.io/badge/-IoT-1A73E8?style=flat&logo=iot)
+![Home Automation](https://img.shields.io/badge/-Home%20Automation-FF9E0F?style=flat&logo=home-assistant)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+
+### [simple-workflows](https://github.com/allanhvam/simple-workflows)
+### [msw-sp](https://github.com/allanhvam/msw-sp)
